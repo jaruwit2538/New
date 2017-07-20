@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="title">HomeBakery</string>
+    <string name="user">ชื่อผู้ใช้</string>
+    <string name="pass">รหัสผ่าน</string>
+    <string name="login">เข้าสู่ระบบ</string>
+    <string name="register">สมัครสมาชิก</string>
+    <string name="add">เพิ่ม</string>
+    <string name="detail">รายละเอียด</string>
+</resources>
